@@ -33,14 +33,6 @@ The task is to create a model able to learns from the data and make predictions 
 
 https://competitions.codalab.org/competitions/19365#learn_the_details-get_starting_kit
 
-**Graphs**
-
-Following two graph shows our accuracy on test data:
-
-![Accuracy_test](https://github.com/prakhar1613072/Mortality-Prediction/blob/master/Accuracy_bar_graph.PNG)
-
-![Accuracy_bar_graph](https://github.com/prakhar1613072/Mortality-Prediction/blob/master/Accuracy_test.PNG)
-
 **Flow_Chart**
 
 ![Flow Chart](https://github.com/prakhar1613072/Mortality-Prediction/blob/master/FlowChart.PNG)
